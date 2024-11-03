@@ -7,7 +7,8 @@ A basic calculator application built with HTML, CSS, and JavaScript. This calcul
 
 ### Demo
 
-(https://calculator-ad0c6.web.app/)
+
+Check out a live demo [here](https://calculator-ad0c6.web.app/)
 
 
 ---
