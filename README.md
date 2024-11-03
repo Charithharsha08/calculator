@@ -61,7 +61,7 @@ Check out a live demo [here](https://calculator-ad0c6.web.app/)
 ```
 simple-calculator/
 ├── index.html         # Main HTML file
-├── style.css          # CSS file for styling
+├── index.css          # CSS file for styling
 └── main.js          # JavaScript file for calculator logic
 ```
 
