@@ -70,7 +70,7 @@ simple-calculator/
 
 Here’s how the calculator looks:
 
-![Calculator Screenshot](![calculator](https://github.com/user-attachments/assets/9b29da08-cb70-4a76-b60a-876226a937e0))
+![Calculator Screenshot]![calculator](https://github.com/user-attachments/assets/9b29da08-cb70-4a76-b60a-876226a937e0)
 
 
 ---
