@@ -7,7 +7,7 @@ A basic calculator application built with HTML, CSS, and JavaScript. This calcul
 
 ### Demo
 
-![Calculator Demo](https://calculator-ad0c6.web.app/)
+(https://calculator-ad0c6.web.app/)
 
 
 ---
@@ -33,7 +33,7 @@ A basic calculator application built with HTML, CSS, and JavaScript. This calcul
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/charithharsha08/calculator.git
+   git clone https://github.com/Charithharsha08/calculator.git
    ```
 
 2. **Navigate to the project directory**:
@@ -70,7 +70,7 @@ simple-calculator/
 
 Here’s how the calculator looks:
 
-![Calculator Screenshot]![calculator](https://github.com/user-attachments/assets/9b29da08-cb70-4a76-b60a-876226a937e0)
+![calculator](https://github.com/user-attachments/assets/9b29da08-cb70-4a76-b60a-876226a937e0)
 
 
 ---
